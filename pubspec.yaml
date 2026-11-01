@@ -1,6 +1,8 @@
 name: smart_keyboard
-description: A smart AI glass keyboard in Flutter.
+description: Smart Glass Keyboard with AI features
+
 publish_to: 'none'
+
 version: 1.0.0+1
 
 environment:
@@ -9,9 +11,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^1.2.0
+  http: ^1.1.0
   shared_preferences: ^2.2.2
-  speech_to_text: ^6.6.1
+  speech_to_text: ^6.5.1
   flutter_tts: ^3.8.5
 
 dev_dependencies:
